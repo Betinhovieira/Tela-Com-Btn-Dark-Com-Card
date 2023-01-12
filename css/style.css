@@ -10,7 +10,12 @@ html, body {
     height: 100%;
     background: #ECEFF1;
     transform: 0.3s;
-    
+}
+
+#logo img {
+    width: 250px;
+    margin-left: 40px;
+    margin-top: 10px;
 }
 
 input[type="checkbox"] {
